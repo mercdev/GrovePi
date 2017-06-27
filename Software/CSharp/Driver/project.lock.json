@@ -14983,20 +14983,20 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tenwong\\.nuget\\packages\\": {}
+    "C:\\Users\\jason\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\Driver\\Driver.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\Driver\\Driver.csproj",
       "projectName": "Driver",
-      "projectPath": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\Driver\\Driver.csproj",
-      "projectJsonPath": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\Driver\\project.json",
+      "projectPath": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\Driver\\Driver.csproj",
+      "projectJsonPath": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\Driver\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\GrovePi\\GrovePi.csproj": {
-              "projectPath": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\GrovePi\\GrovePi.csproj"
+            "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\GrovePi\\GrovePi.csproj": {
+              "projectPath": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\GrovePi\\GrovePi.csproj"
             }
           }
         }

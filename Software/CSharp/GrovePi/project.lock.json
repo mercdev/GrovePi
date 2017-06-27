@@ -14957,14 +14957,14 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tenwong\\.nuget\\packages\\": {}
+    "C:\\Users\\jason\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\GrovePi\\GrovePi.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\GrovePi\\GrovePi.csproj",
       "projectName": "GrovePi",
-      "projectPath": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\GrovePi\\GrovePi.csproj",
-      "projectJsonPath": "C:\\VS\\Test\\GrovePi\\Software\\CSharp\\GrovePi\\project.json",
+      "projectPath": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\GrovePi\\GrovePi.csproj",
+      "projectJsonPath": "C:\\Users\\jason\\Source\\Repos\\GrovePi2\\Software\\CSharp\\GrovePi\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
